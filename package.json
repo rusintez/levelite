@@ -1,0 +1,29 @@
+{
+  "name": "levelite",
+  "version": "0.1.0",
+  "description": "Simple storage on the top of leveldb",
+  "main": "lib/levelite/index.js",
+  "dependencies": {
+    "level": "~0.18.0",
+    "underscore": "~1.6.0",
+    "mkdirp": "~0.3.5"
+  },
+  "devDependencies": {
+    "mocha": "~1.17.1"
+  },
+  "scripts": {
+    "test": "mocha -R spec -b -w -G -t 10000 spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/rusintez/levelite.git"
+  },
+  "keywords": [
+    "leveldb",
+    "store",
+    "nodejs"
+  ],
+  "author": "Vladimir Popov <rusintez@gmail.com>",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
