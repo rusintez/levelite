@@ -1,9 +1,8 @@
 # Levelite
 
 Simple storage on the top of leveldb 
-![dependencies](https://david-dm.org/rusintez/levelite.png "https://david-dm.org/rusintez/levelite.png")
-![devDependencies](https://david-dm.org/rusintez/levelite#info=devDependencies "https://david-dm.org/rusintez/levelite#info=devDependencies")
-
+![Build Status](https://travis-ci.org/rusintez/levelite.png?branch=master "https://travis-ci.org/rusintez/levelite")
+![Dependencies](https://david-dm.org/rusintez/levelite.png "https://david-dm.org/rusintez/levelite.png")
 
 # API 
 
