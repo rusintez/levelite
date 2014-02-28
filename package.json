@@ -12,7 +12,8 @@
     "mocha": "~1.17.1"
   },
   "scripts": {
-    "test": "mocha -R spec -b -w -G -t 10000 spec"
+    "test": "mocha -R spec -b -G -t 10000 spec",
+    "devel": "mocha -R spec -b -w -G -t 10000 spec"
   },
   "repository": {
     "type": "git",
